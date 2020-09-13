@@ -2,7 +2,7 @@ body {
     font-family: "Open Sans", sans-serif;
 }
 
-h1, h2, h3 {
+h1, h2, h3, h4 {
     font-family: "Lobster", cursive;
 }
 
@@ -45,4 +45,8 @@ header h2 {
 }
 .carousel{
     border: solid #5637DD;
+}
+#reserveModal{
+    background-color: #17a2b8;
+    
 }

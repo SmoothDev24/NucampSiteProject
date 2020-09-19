@@ -13,3 +13,13 @@ $(function(){
     });
     
 });
+$(function(){
+    $("#reserveButton").click(function(){
+        $("#registrationModal").modal("show")
+    })
+})
+$(function(){
+    $("#loginButton").click(function(){
+        $("#loginModal").modal("show")
+    })
+})
